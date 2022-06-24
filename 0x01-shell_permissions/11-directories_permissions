@@ -1,3 +1,2 @@
 #!/bin/bash
-chmod -R 751 
-ugo+X
+chmod -R 751 ugo+x
